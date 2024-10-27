@@ -1,0 +1,30 @@
+/*Global CSS*/
+* {
+    font-size: 30px;
+    font-weight: 500;
+}
+
+/*External CSS*/
+h3 {
+    color: blue;
+}
+
+/*Element Selector*/
+h4 {
+    color: palevioletred;
+}
+
+/*Class Selector*/
+.myclass {
+    color: darkorange;
+}
+
+/*ID Selector*/
+#myid {
+    color: mediumpurple;
+}
+
+/*Group Selector*/
+h5, p {
+    color: maroon;
+}
